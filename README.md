@@ -1,3 +1,1 @@
-# BuildingPyramid
-
-Simple code to build a pyramid using for loops and asterisks
+These are simple tasks from when I was learning how to solve random tasks.
